@@ -24,6 +24,11 @@ body{
     text-align: center;
   }
 
+  .center-container{
+    text-align: center;
+    background-color: #15aa35;
+  }
+
   .escola-titulo{
     text-align: center;
     color: azure;
