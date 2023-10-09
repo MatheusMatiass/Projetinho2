@@ -6,16 +6,17 @@ body{
 }
 
 .custom-button {
-    background-color: #f10587;
+    background-color: #d3167e;
     border-style: double;
     color: rgb(248, 244, 244);
-    padding:0;
+    padding: 20px 20px;
     text-align: center;
     text-decoration: none;
+    display: inline-block;
     font-size: 20px;
     border-radius: 10px;
     cursor: pointer;
-    width:0;
+    width: 50% 50% 50%;
     border-color: rgb(252, 251, 251);
   }
 
