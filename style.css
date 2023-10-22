@@ -37,6 +37,7 @@ body{
   }
 
   .texto{
-    color: aliceblue;
+    color: rgb(46, 160, 35);
     font-size: larger;
+    text-align: center;
   }
